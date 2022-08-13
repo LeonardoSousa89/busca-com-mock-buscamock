@@ -1,0 +1,79 @@
+*{
+    margin:0;
+}
+body{
+    height:100vh;
+    width:100vw;
+    overflow:hidden;
+}
+.container{
+    height:100vh;
+    width:100vw;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.dinamica{
+    border:solid 1px rgba(0, 0, 0, 0.3);
+    padding:3vh;
+    width:60%;
+    border-radius:12px;
+    box-shadow:0px 0px 5px black;
+    margin-bottom:3vh;
+}
+.dinamica #buscador{
+    width:80%;
+    padding:1vh;
+}
+button{
+    width:16%;
+    padding:2vh;
+    cursor:pointer;
+    border-radius:6px;
+    background-color:black;
+    color:white;
+
+    transition-property:all;
+    transition-duration:0.5s;
+}
+button:hover{
+    background-color:dodgerblue;
+}
+.dinamica button, .dinamica #buscador{
+    border:none;
+    outline:none;
+}
+.leitora{
+    overflow:hidden;
+    width:95%;
+    height:60%;
+    padding:1vh;
+}
+.leitora button{
+    border:none;
+    outline:none;
+}
+.leitora .area{
+    width:85%;
+    height:40%;
+
+    padding:10vh;
+
+    border:solid 1px white;
+    outline:none;
+}
+table{
+    border-radius:12px;
+    background-color:rgba(0, 0, 0, 0.3);
+}
+.area h2{
+    background-color:dodgerblue;
+    padding:3vh;
+    text-shadow:0px 0px 5px red;
+    color:white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-shadow:0px 0px 5px black;
+    margin:1vh;
+}

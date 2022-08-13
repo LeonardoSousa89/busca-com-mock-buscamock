@@ -1,0 +1,63 @@
+[
+    {
+       "produto":"camiseta regata his M",
+       "quantidade":"10",
+       "cor":"branco",
+       "preco":53.65
+    },{
+        "produto":"camiseta regata his M",
+        "quantidade":"15",
+        "cor":"preta",
+        "preco":32.66
+     },{
+        "produto":"sandália havaianas 42",
+        "quantidade":"30",
+        "cor":"azul",
+        "preco":27.98
+     },{
+        "produto":"boné NY",
+        "quantidade":"5",
+        "cor":"cinza",
+        "preco":154.77
+     },{
+        "produto":"boné NY",
+        "quantidade":"5",
+        "cor":"rosa",
+        "preco":154.77
+     },{
+        "produto":"camisa polo mitchell",
+        "quantidade":"15",
+        "cor":"bege",
+        "preco":65.78
+     },{
+        "produto":"lupa oasklen",
+        "quantidade":"3",
+        "cor":"preta",
+        "preco":559.77
+     },{
+        "produto":"sapato lacoste branco 38",
+        "quantidade":"15",
+        "cor":"preta",
+        "preco":899.95
+     },{
+        "produto":"camisa calvin klein polo 42",
+        "quantidade":"15",
+        "cor":"branco",
+        "preco":359.99
+     },{
+        "produto":"bermuda mahalo 40",
+        "quantidade":"30",
+        "cor":"amarelo",
+        "preco":69.99
+     },{
+        "produto":"blazer brooksfield",
+        "quantidade":"3",
+        "cor":"cinza",
+        "preco":1023.65
+     },{
+        "produto":"calça jeans his gg",
+        "quantidade":"10",
+        "cor":"jeans",
+        "preco":543.65
+     }
+]
